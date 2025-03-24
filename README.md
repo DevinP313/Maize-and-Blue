@@ -1,7 +1,7 @@
 # Maize-and-Blue
 **Maize and Blue** is a maze-based desktop game developed in Qt and C++ for the final project in **ECE 370: Advanced Software Techniques in Computer Engineering**.
 
-# 🌽 Maize and Blue — ECE 370 Final Project
+# 〽️ Maize and Blue — ECE 370 Final Project
 
 **Maize and Blue** is a maze-based desktop game developed in Qt and C++ for the final project in **ECE 370: Advanced Software Techniques in Computer Engineering**. Themed around the historic rivalry between the University of Michigan and Ohio State, this game challenges players to race through a maize-themed maze before time runs out — while dodging traps and avoiding defeat.
 
